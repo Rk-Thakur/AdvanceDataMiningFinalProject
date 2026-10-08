@@ -1,0 +1,4 @@
+Model,TP,FP,FN,TN
+Naive Bayes,82,6,20,94
+Decision Tree (depth 9),60,13,42,87
+SVM (linear),85,10,17,90

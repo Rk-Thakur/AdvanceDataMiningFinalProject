@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall (Sensitivity),Specificity,F1-score,TP,FP,FN,TN,5-fold CV mean,5-fold CV std,AUC,Train time (s)
+Naive Bayes,0.8713,0.9318,0.8039,0.94,0.8632,82.0,6.0,20.0,94.0,0.8782,0.0135,0.9442,0.0002
+Decision Tree (depth 9),0.7277,0.8219,0.5882,0.87,0.6857,60.0,13.0,42.0,87.0,0.7832,0.0309,0.7398,0.0028
+SVM (linear),0.8663,0.8947,0.8333,0.9,0.8629,85.0,10.0,17.0,90.0,0.8653,0.0344,0.9238,0.0163
