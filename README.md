@@ -4,6 +4,8 @@ A data mining project that predicts whether a wine scores **90 points or higher*
 Wine Spectator tasting note. Three classifiers are compared — **Naive Bayes**, **Decision Tree (depth 5–9)**
 and **Support Vector Machine** — and the results are presented as figures, tables and an interactive dashboard.
 
+**Live dashboard:** https://rk-thakur.github.io/AdvanceDataMiningFinalProject/
+
 ## Dataset
 
 `Full Wine Data.xlsx` — 1,010 wines, each described by **305 binary attributes** from the Computational Wine
