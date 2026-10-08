@@ -315,7 +315,7 @@ window.WINE_RESULTS = {
     0.7426
    ],
    "auc": 0.7398,
-   "time": 0.00282,
+   "time": 0.00305,
    "roc": [
     [
      0.0,
@@ -368,7 +368,7 @@ window.WINE_RESULTS = {
     0.802
    ],
    "auc": 0.9238,
-   "time": 0.01628,
+   "time": 0.01543,
    "roc": [
     [
      0.0,
